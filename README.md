@@ -26,8 +26,13 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
  Em seguida clique em **Usar no Chrome**.
 
- 
+ Após dar um refresh no desk, após chegar novas mensagens de áudio, a tela do assistente deve ficar dessa forma:
 
+ ![image](https://github.com/Wilkor/doc-plugin-download-audio/assets/34819624/3875a2ac-3bcb-4b38-9080-e99da8d282a3)
+
+
+ **OBS**: Só irá aparecer a opção de download a partir de audios que chegaram após a instalação da extensão.
+ video: https://youtu.be/DFSjs1okJcU?si=buTEm5I74zHi4YKh
 
  Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
  
