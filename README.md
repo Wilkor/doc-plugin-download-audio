@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-download-audio/assets/34819624/5c57a7ef-920e-402d-891a-4d09c7474c09)
 
 # Como utilizar a extensão Download de Áudio!
 
