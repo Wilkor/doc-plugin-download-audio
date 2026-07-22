@@ -7,9 +7,8 @@ A extensão **Download de Áudio** permite transcrever automaticamente mensagens
 ---
 
 ### 1. Vídeo demonstrativo
-Assista à demonstração prática diretamente na interface do seu BlipDesk e no Dashboard da extensão após a instalação.
+Esta extensão não possui vídeos ainda.
 
-*(Confira a transcrição em tempo real e o relatório de sentimentos em ação)*
 
 ### 2. Introdução
 A extensão **Download de Áudio** elimina a necessidade de ouvir áudios longos no atendimento humano. Com a ajuda da Inteligência Artificial, ela transcreve o conteúdo das mensagens de voz, avalia a intenção e sentimento do cliente e permite o download do arquivo de áudio.
